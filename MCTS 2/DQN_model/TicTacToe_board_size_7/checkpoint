@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/amax/python_in_jupyter/private_work/MCTS/DQN_model/TicTacToe_board_size_7/parameter.ckpt"
+all_model_checkpoint_paths: "/home/amax/python_in_jupyter/private_work/MCTS/DQN_model/TicTacToe_board_size_7/parameter.ckpt"
