@@ -1,7 +1,7 @@
 ### Tic Tac Toe
 Implement Monte Carlo tree search and reinforcement learning methods on a Tic Tac Toe game.
 
-### Requirement
+### Dependency
 - python 3.6 (It doesn't work on python 3.7 and I haven't figured out the reason yet)
 - numpy 
 - tensorflow 1.7
